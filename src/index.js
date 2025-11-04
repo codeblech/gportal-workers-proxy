@@ -15,6 +15,7 @@ export default {
     const allowedOrigins = [
       "https://yashmalik.tech",
       "https://itsrat17.github.io",
+      "https://rachi.tech",
       "https://gportal.yashmalik.tech",
       "https://codeblech.github.io",
       "http://localhost:5173", // Local development
@@ -150,6 +151,7 @@ function handleCORS(request) {
   const allowedOrigins = [
     "https://yashmalik.tech",
     "https://itsrat17.github.io",
+    "https://rachi.tech",
     "https://gportal.yashmalik.tech",
     "https://codeblech.github.io",
     "http://localhost:5173",
